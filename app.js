@@ -14,4 +14,4 @@ function initMap(){
 //     let 
 // }
 
-GET `https://maps.googleapis.com/maps/api/geocode/outputFormat?parameters`;
+GET `https://maps.googleapis.com/maps/api/geocode/json?parameters`;
